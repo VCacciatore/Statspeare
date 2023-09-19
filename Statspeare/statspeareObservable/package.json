@@ -1,0 +1,14 @@
+{
+  "name": "ff646f7c78edfd0d",
+  "main": "ff646f7c78edfd0d@642.js",
+  "version": "642.0.0",
+  "homepage": "https://observablehq.com/d/ff646f7c78edfd0d",
+  "author": {
+    "name": "Vincent Cacciatore's Workspace",
+    "url": "https://observablehq.com/@vincent-cacciatore-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
