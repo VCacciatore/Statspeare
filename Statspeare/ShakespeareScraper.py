@@ -37,4 +37,4 @@ for pc in PlayCodes:
     webscrape(df, pc)
 
 # convert to csv
-df.to_csv("statspeare.csv") 
+df.to_csv("statspeare.csv", index=False) 
